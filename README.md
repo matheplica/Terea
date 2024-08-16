@@ -1,8 +1,8 @@
 # TEREA
-
+a basic shape extruder
 ![TeraaExample](imgs/terea.png)
 
-## TEREA is a basic shape extruder
+## TEREA
 
   - upload a svg file
   - select high of outline base and thickness
