@@ -3,13 +3,13 @@ a basic shape extruder
 
 ![TeraaExample](imgs/terea.png)
 
-## TEREA
+## TEREA works like that
 
   - upload a svg file
   - select high of outline base and thickness
   - save as .stl
  
-## How does it works ?
+## How use it ?
 
  - Put svg file call 'input.svg' in data 
  - press key as desire, all used key are written in up-left corner
@@ -17,5 +17,5 @@ a basic shape extruder
 
 ## Prepare svg file in Inskcape
  - prepare your shape, curved lines looks better than straight
- - add more points to increase resolution
+ - add more between points to increase resolution
  - save as svg simple
