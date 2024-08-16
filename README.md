@@ -1,10 +1,11 @@
 # TEREA
-a basic shape extruder
+a basic Processing shape extruder
 
 ![TeraaExample](imgs/terea.png)
 
 ## TEREA works like that
 
+  - download and install [toxiclibs](https://github.com/postspectacular/toxiclibs/releases/tag/0021)
   - upload a svg file
   - select high of outline base and thickness
   - save as .stl
