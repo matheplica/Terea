@@ -1,4 +1,4 @@
-//matheplice.github.io - 14/08/2024
+//matheplica.github.io - 14/08/2024
 import toxi.processing.*;
 import toxi.geom.*;
 import toxi.geom.mesh.*;
