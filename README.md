@@ -18,5 +18,5 @@ a basic Processing shape extruder
 
 ## Prepare svg file in Inskcape
  - prepare your shape, curved lines looks better than straight
- - add more between points to increase resolution
+ - add more points between to increase resolution
  - save as svg simple
